@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/olist_customer_satisfaction/mlruns/0/edb60158e9514a5f8388ec0112d5a841/artifacts
+end_time: 1743766018317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edb60158e9514a5f8388ec0112d5a841
+run_name: gentle-kite-877
+run_uuid: edb60158e9514a5f8388ec0112d5a841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743766015363
+status: 3
+tags: []
+user_id: ASUS

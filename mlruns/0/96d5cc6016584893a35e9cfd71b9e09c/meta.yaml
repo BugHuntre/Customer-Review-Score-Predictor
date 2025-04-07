@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/olist_customer_satisfaction/mlruns/0/96d5cc6016584893a35e9cfd71b9e09c/artifacts
+end_time: 1743766241524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96d5cc6016584893a35e9cfd71b9e09c
+run_name: mysterious-cow-23
+run_uuid: 96d5cc6016584893a35e9cfd71b9e09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743766238309
+status: 3
+tags: []
+user_id: ASUS

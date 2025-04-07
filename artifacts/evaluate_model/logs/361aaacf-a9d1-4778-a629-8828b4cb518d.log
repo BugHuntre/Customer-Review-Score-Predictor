@@ -1,0 +1,61 @@
+[2025-04-04 10:22:48 UTC] Step evaluate_model has started.
+
+[2025-04-04 10:22:48 UTC] Entered the calculate_score method of the MSE class
+
+[2025-04-04 10:22:48 UTC] The mean squared error value is: 1.8640770533975461
+
+[2025-04-04 10:22:48 UTC] Entered the calculate_score method of the R2Score class
+
+[2025-04-04 10:22:48 UTC] The r2 score value is: 0.017729030402296564
+
+[2025-04-04 10:22:48 UTC] Entered the calculate_score method of the RMSE class
+
+[2025-04-04 10:22:48 UTC] The root mean squared error value is: 1.365312071798073
+
+[2025-04-04 10:22:48 UTC] Error in evaluating model: Could not find experiment with ID 0
+
+[2025-04-04 10:22:48 UTC] Failed to run step evaluate_model after 1 retries. Exiting.
+
+[2025-04-04 10:22:48 UTC] Could not find experiment with ID 0
+Traceback (most recent call last):
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 255, in launch
+    self._run_step(
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 376, in _run_step
+    self._run_step_without_step_operator(
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 461, in _run_step_without_step_operator
+    runner.run(
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_runner.py", line 192, in run
+    return_values = step_instance.call_entrypoint(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\steps\base_step.py", line 562, in call_entrypoint
+    return self.entrypoint(**validated_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\steps\evaluate.py", line 50, in evaluate_model
+    raise e
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\steps\evaluate.py", line 42, in evaluate_model
+    mlflow.log_metric("mse", mse)
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 921, in log_metric
+    run_id = run_id or _get_or_start_run().info.run_id
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 2184, in _get_or_start_run
+    return start_run()
+           ^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 446, in start_run
+    active_run_obj = client.create_run(
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\tracking\client.py", line 400, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 170, in create_run
+    return self.store.create_run(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\store\tracking\file_store.py", line 639, in create_run
+    experiment = self.get_experiment(experiment_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\store\tracking\file_store.py", line 448, in get_experiment
+    experiment = self._get_experiment(experiment_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\mlflow\store\tracking\file_store.py", line 418, in _get_experiment
+    raise MlflowException(
+mlflow.exceptions.MlflowException: Could not find experiment with ID 0
+

@@ -1,0 +1,1164 @@
+[2025-04-04 11:26:46 UTC] Step train_model has started.
+
+[2025-04-04 11:26:46 UTC] [I 2025-04-04 16:56:45,241] A new study created in memory with name: no-name-3a9f1244-c165-4a6f-ac1c-cd6e9dbc2a20
+
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000903 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:46 UTC] [I 2025-04-04 16:56:45,661] Trial 0 finished with value: 0.09541301074955522 and parameters: {'n_estimators': 149, 'max_depth': 12, 'learning_rate': 0.1070870821049211}. Best is trial 0 with value: 0.09541301074955522.
+
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002356 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:46 UTC] [I 2025-04-04 16:56:45,963] Trial 1 finished with value: 0.11286665073398239 and parameters: {'n_estimators': 192, 'max_depth': 10, 'learning_rate': 0.17028163194808965}. Best is trial 1 with value: 0.11286665073398239.
+
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002578 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:46 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:46 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [I 2025-04-04 16:56:46,396] Trial 2 finished with value: 0.08689370685545761 and parameters: {'n_estimators': 273, 'max_depth': 4, 'learning_rate': 0.22830957710042651}. Best is trial 1 with value: 0.11286665073398239.
+
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000736 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:47 UTC] [I 2025-04-04 16:56:46,734] Trial 3 finished with value: 0.11964670171522551 and parameters: {'n_estimators': 239, 'max_depth': 8, 'learning_rate': 0.19128856533011404}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000658 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:47 UTC] [I 2025-04-04 16:56:47,008] Trial 4 finished with value: 0.09804243371518628 and parameters: {'n_estimators': 160, 'max_depth': 8, 'learning_rate': 0.1386588711702166}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002800 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:47 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:47 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [I 2025-04-04 16:56:47,570] Trial 5 finished with value: 0.10591043587199767 and parameters: {'n_estimators': 296, 'max_depth': 5, 'learning_rate': 0.21691962300675866}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000547 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:48 UTC] [I 2025-04-04 16:56:47,823] Trial 6 finished with value: 0.1111602782167439 and parameters: {'n_estimators': 160, 'max_depth': 8, 'learning_rate': 0.229527895426205}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000750 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [I 2025-04-04 16:56:48,043] Trial 7 finished with value: 0.10169842359639414 and parameters: {'n_estimators': 119, 'max_depth': 7, 'learning_rate': 0.28765554536457294}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000727 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [I 2025-04-04 16:56:48,485] Trial 8 finished with value: 0.0998770212689859 and parameters: {'n_estimators': 254, 'max_depth': 5, 'learning_rate': 0.15451636661931756}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000742 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:48 UTC] [I 2025-04-04 16:56:48,669] Trial 9 finished with value: 0.05981665782703338 and parameters: {'n_estimators': 73, 'max_depth': 10, 'learning_rate': 0.04669834594109008}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002513 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:48 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:48 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:49 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:49,067] Trial 10 finished with value: 0.035623506435366936 and parameters: {'n_estimators': 215, 'max_depth': 3, 'learning_rate': 0.011979488088976309}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000717 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:49,397] Trial 11 finished with value: 0.11750063422791301 and parameters: {'n_estimators': 213, 'max_depth': 10, 'learning_rate': 0.19184429039489082}. Best is trial 3 with value: 0.11964670171522551.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000748 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:49,841] Trial 12 finished with value: 0.1198384010109127 and parameters: {'n_estimators': 229, 'max_depth': 10, 'learning_rate': 0.19423599380729586}. Best is trial 12 with value: 0.1198384010109127.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000689 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:50,197] Trial 13 finished with value: 0.12449405486534604 and parameters: {'n_estimators': 236, 'max_depth': 7, 'learning_rate': 0.28001515723991516}. Best is trial 13 with value: 0.12449405486534604.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002465 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:50,550] Trial 14 finished with value: 0.11987221918721047 and parameters: {'n_estimators': 230, 'max_depth': 12, 'learning_rate': 0.29921745476215367}. Best is trial 13 with value: 0.12449405486534604.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002472 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:50,955] Trial 15 finished with value: 0.12900338149835844 and parameters: {'n_estimators': 271, 'max_depth': 12, 'learning_rate': 0.28796077594704106}. Best is trial 15 with value: 0.12900338149835844.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000779 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:51,412] Trial 16 finished with value: 0.1220902985763247 and parameters: {'n_estimators': 292, 'max_depth': 6, 'learning_rate': 0.2583169937974424}. Best is trial 15 with value: 0.12900338149835844.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.002778 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:51,828] Trial 17 finished with value: 0.12021217860684719 and parameters: {'n_estimators': 261, 'max_depth': 7, 'learning_rate': 0.26395377759981953}. Best is trial 15 with value: 0.12900338149835844.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000732 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:52,133] Trial 18 finished with value: 0.11326940002076913 and parameters: {'n_estimators': 189, 'max_depth': 9, 'learning_rate': 0.2577343325541987}. Best is trial 15 with value: 0.12900338149835844.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000704 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:52 UTC] [I 2025-04-04 16:56:52,569] Trial 19 finished with value: 0.1120232420446996 and parameters: {'n_estimators': 273, 'max_depth': 11, 'learning_rate': 0.10997784281882975}. Best is trial 15 with value: 0.12900338149835844.
+
+[2025-04-04 11:26:52 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000717 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:26:54 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:26:54 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:26:54 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:26:54 UTC] No materializer is registered for type <class 'lightgbm.sklearn.LGBMRegressor'>, so the default Pickle materializer was used. Pickle is not production ready and should only be used for prototyping as the artifacts cannot be loaded when running with a different Python version. Please consider implementing a custom materializer for type <class 'lightgbm.sklearn.LGBMRegressor'> according to the instructions at https://docs.zenml.io/how-to/handle-data-artifacts/handle-custom-data-types
+
+[2025-04-04 11:26:54 UTC] Step train_model has finished in 9.399s.
+

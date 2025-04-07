@@ -1,0 +1,46 @@
+[2025-04-04 10:17:52 UTC] Step clean_df has started.
+
+[2025-04-04 10:17:52 UTC] C:\Users\ASUS\Desktop\olist_customer_satisfaction\src\data_cleaning.py:40: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data["product_weight_g"].fillna(data["product_weight_g"].median(), inplace=True)
+
+[2025-04-04 10:17:52 UTC] C:\Users\ASUS\Desktop\olist_customer_satisfaction\src\data_cleaning.py:41: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data["product_length_cm"].fillna(data["product_length_cm"].median(), inplace=True)
+
+[2025-04-04 10:17:52 UTC] C:\Users\ASUS\Desktop\olist_customer_satisfaction\src\data_cleaning.py:42: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data["product_height_cm"].fillna(data["product_height_cm"].median(), inplace=True)
+
+[2025-04-04 10:17:52 UTC] C:\Users\ASUS\Desktop\olist_customer_satisfaction\src\data_cleaning.py:43: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data["product_width_cm"].fillna(data["product_width_cm"].median(), inplace=True)
+
+[2025-04-04 10:17:52 UTC] C:\Users\ASUS\Desktop\olist_customer_satisfaction\src\data_cleaning.py:45: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data["review_comment_message"].fillna("No review", inplace=True)
+
+[2025-04-04 10:17:52 UTC] ✅ Data Cleaning Completed
+
+[2025-04-04 10:17:52 UTC] Step clean_df has finished in 5.983s.
+

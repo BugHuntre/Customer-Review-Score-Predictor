@@ -1,0 +1,27 @@
+[2025-04-04 10:17:55 UTC] Step evaluate_model has started.
+
+[2025-04-04 10:17:55 UTC] Error in evaluating model: 'MSE' object has no attribute 'calculate_scores'
+
+[2025-04-04 10:17:55 UTC] Failed to run step evaluate_model after 1 retries. Exiting.
+
+[2025-04-04 10:17:55 UTC] 'MSE' object has no attribute 'calculate_scores'
+Traceback (most recent call last):
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 255, in launch
+    self._run_step(
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 376, in _run_step
+    self._run_step_without_step_operator(
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 461, in _run_step_without_step_operator
+    runner.run(
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\orchestrators\step_runner.py", line 192, in run
+    return_values = step_instance.call_entrypoint(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\venv\Lib\site-packages\zenml\steps\base_step.py", line 562, in call_entrypoint
+    return self.entrypoint(**validated_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\steps\evaluate.py", line 50, in evaluate_model
+    raise e
+  File "C:\Users\ASUS\Desktop\olist_customer_satisfaction\steps\evaluate.py", line 38, in evaluate_model
+    mse = MSE().calculate_scores(y_test, prediction)
+          ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MSE' object has no attribute 'calculate_scores'
+

@@ -1,0 +1,16 @@
+[2025-04-04 11:26:57 UTC] Step evaluate_model has started.
+
+[2025-04-04 11:26:57 UTC] Entered the calculate_score method of the MSE class
+
+[2025-04-04 11:26:57 UTC] The mean squared error value is: 1.6529092891758028
+
+[2025-04-04 11:26:57 UTC] Entered the calculate_score method of the R2Score class
+
+[2025-04-04 11:26:57 UTC] The r2 score value is: 0.12900338149835844
+
+[2025-04-04 11:26:57 UTC] Entered the calculate_score method of the RMSE class
+
+[2025-04-04 11:26:57 UTC] The root mean squared error value is: 1.285655198401112
+
+[2025-04-04 11:26:57 UTC] Step evaluate_model has finished in 2.735s.
+

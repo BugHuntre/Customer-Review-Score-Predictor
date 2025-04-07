@@ -1,0 +1,12 @@
+[2025-04-04 11:30:37 UTC] Step train_model has started.
+
+[2025-04-04 11:30:37 UTC] [LightGBM] [Info] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000688 seconds.
+You can set `force_row_wise=true` to remove the overhead.
+And if memory is not enough, you can set `force_col_wise=true`.
+[2025-04-04 11:30:37 UTC] [LightGBM] [Info] Total Bins 1686
+[2025-04-04 11:30:37 UTC] [LightGBM] [Info] Number of data points in the train set: 92487, number of used features: 12
+[2025-04-04 11:30:37 UTC] [LightGBM] [Info] Start training from score 4.033302
+[2025-04-04 11:30:37 UTC] No materializer is registered for type <class 'lightgbm.sklearn.LGBMRegressor'>, so the default Pickle materializer was used. Pickle is not production ready and should only be used for prototyping as the artifacts cannot be loaded when running with a different Python version. Please consider implementing a custom materializer for type <class 'lightgbm.sklearn.LGBMRegressor'> according to the instructions at https://docs.zenml.io/how-to/handle-data-artifacts/handle-custom-data-types
+
+[2025-04-04 11:30:37 UTC] Step train_model has finished in 1.805s.
+
